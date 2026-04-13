@@ -1,4 +1,4 @@
 Team Members:
-Martins Trops
-Mumtaz Erdogan
+Martins Trops, 
+Mumtaz Erdogan, 
 Haseeb
