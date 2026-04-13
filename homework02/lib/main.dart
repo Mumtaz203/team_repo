@@ -42,11 +42,11 @@ class _TeamProfilePageState extends State<TeamProfilePage> {
       imagePath: 'assets/images/image.png',
     ),
     TeamMember(
-      name: 'Martin',
-      country: 'Finland',
-      role: 'Backend Integrator',
-      hobbies: 'Reading, gaming, hiking',
-      motto: 'Clean code wins.',
+      name: 'Martins',
+      country: 'Latvia',
+      role: 'Backend Engineer',
+      hobbies: 'Orienteering, gaming, reading',
+      motto: 'Happy to be here.',
       imagePath: 'assets/images/image_copy 2.png',
     ),
     TeamMember(
